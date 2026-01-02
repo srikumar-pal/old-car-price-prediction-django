@@ -70,6 +70,9 @@ oldcar/
 
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
+<img width="881" height="559" alt="Screenshot 2026-01-02 204229" src="https://github.com/user-attachments/assets/593ebab0-3dda-423d-857f-f07b2dcfa51e" />
+<img width="1697" height="773" alt="Screenshot 2026-01-02 204259" src="https://github.com/user-attachments/assets/c1419541-c3d7-4d90-8824-456468d87ad3" />
+<img width="1053" height="672" alt="Screenshot 2026-01-02 204432" src="https://github.com/user-attachments/assets/b7772956-d46a-49dc-a7f2-0a9f8328b689" />
 
 ## ⚙️ How to Run Locally
 
